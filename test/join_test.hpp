@@ -1,5 +1,5 @@
+#include <osf/tmp/sequence/join.hpp>
 #include "test_util.hpp"
-#include "tmp/sequence/join.hpp"
 
 namespace join_test {
 	int run() {

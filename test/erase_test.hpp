@@ -1,6 +1,6 @@
+#include <osf/tmp/sequence/erase.hpp>
+#include <osf/tmp/vocabulary.hpp>
 #include "test_util.hpp"
-#include "tmp/sequence/erase.hpp"
-#include "tmp/vocabulary.hpp"
 namespace erase_test {
 	template <int>
 	struct x;

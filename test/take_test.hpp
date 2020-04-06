@@ -1,6 +1,6 @@
 #include "test_util.hpp"
-#include "tmp/sequence/take.hpp"
-#include "tmp/vocabulary.hpp"
+#include <osf/tmp/sequence/take.hpp>
+#include <osf/tmp/vocabulary.hpp>
 namespace take_test {
 	template <int>
 	struct x;

@@ -1,5 +1,5 @@
 #include "test_util.hpp"
-#include "tmp/sequence/tee.hpp"
+#include <osf/tmp/sequence/tee.hpp>
 
 namespace tee_test {
 	using namespace osf::tmp;
