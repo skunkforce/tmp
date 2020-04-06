@@ -1,6 +1,6 @@
+#include <osf/tmp/algorithm/fold_left.hpp>
+#include <osf/tmp/sequence/join.hpp>
 #include "test_util.hpp"
-#include "tmp/algorithm/fold_left.hpp"
-#include "tmp/sequence/join.hpp"
 
 namespace fold_left_test {
 	template <typename T, typename U>

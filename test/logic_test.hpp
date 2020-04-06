@@ -1,6 +1,6 @@
 #include <memory>
+#include <osf/tmp/logic.hpp>
 #include "test_util.hpp"
-#include "tmp/logic.hpp"
 
 namespace logic_test {
 	template <typename T>

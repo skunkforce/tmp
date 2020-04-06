@@ -1,6 +1,6 @@
+#include <osf/tmp/algorithm/contains.hpp>
+#include <osf/tmp/comparison.hpp>
 #include "test_util.hpp"
-#include "tmp/algorithm/contains.hpp"
-#include "tmp/comparison.hpp"
 namespace contains_test {
 	template <int>
 	struct x;

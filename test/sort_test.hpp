@@ -1,5 +1,5 @@
+#include <osf/tmp/algorithm/sort.hpp>
 #include "test_util.hpp"
-#include "tmp/algorithm/sort.hpp"
 namespace sort_test {
 	template <typename T, typename U>
 	using less = bool_<(T::value < U::value)>;

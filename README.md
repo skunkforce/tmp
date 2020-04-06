@@ -1,7 +1,4 @@
  # skunkforce.tmp (Tacit Meta Programming) 
- ## Warning! still work in progress
-I decided to rewrite all of kvasir::mpl on a slightly different paradigm to extend compiler support further back and get some more speed out of low arity calls. Therefore most of this code has seen little or no testing beyond the skimpy unit test coverage so far. Bug reports welcome, do not use this in anything you don't want to see blow up spectacularly... yet. 
-
  ### What is skunkforce.tmp?
 A general purpose Template Meta Programming (TMP) library which covers the domains of osf.MPL, osf.Fusion, osf.mp11 and osf.hana. 
  ### Whats cool about this library?
