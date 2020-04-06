@@ -1,5 +1,5 @@
+#include <osf/tmp/algorithm/partition.hpp>
 #include "test_util.hpp"
-#include "tmp/algorithm/partition.hpp"
 
 namespace partition_test {
 	template <int I>

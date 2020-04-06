@@ -1,8 +1,8 @@
 #pragma once
-#include "tmp/call.hpp"
-#include "tmp/sequence/make_sequence.hpp"
-#include "tmp/sequence/push_front.hpp"
-#include "tmp/sequence/tee.hpp"
+#include <osf/tmp/call.hpp>
+#include <osf/tmp/sequence/make_sequence.hpp>
+#include <osf/tmp/sequence/push_front.hpp>
+#include <osf/tmp/sequence/tee.hpp>
 
 using namespace osf::tmp;
 template <typename T>

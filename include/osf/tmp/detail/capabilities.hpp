@@ -12,7 +12,14 @@
 #define OSF_TMP_COMPLEX_CONSTEXPR
 #endif
 #else
+#if _MSC_VER >= 1900
+#define OSF_TMP_CPP14
+#define OSF_TMP_COMPLEX_CONSTEXPR constexpr
+#elif _MSC_VER >= 1800
+
+#else
 #error "__cplusplus must be > 201103L (the value of C++11)"
+#endif
 #endif
 
 #endif

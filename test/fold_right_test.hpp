@@ -1,5 +1,5 @@
+#include <osf/tmp/algorithm/fold_right.hpp>
 #include "test_util.hpp"
-#include "tmp/algorithm/fold_right.hpp"
 
 namespace fold_right_test {
 	template <typename T, typename U>

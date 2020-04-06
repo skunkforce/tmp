@@ -1,5 +1,5 @@
+#include <osf/tmp/algorithm/product.hpp>
 #include "test_util.hpp"
-#include "tmp/algorithm/product.hpp"
 
 namespace product_test {
 	template <int I>
