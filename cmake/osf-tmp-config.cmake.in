@@ -1,0 +1,5 @@
+@PACKAGE_INIT@
+
+if( NOT TARGET @this_name@::@this_name@ )
+    include( "${CMAKE_CURRENT_LIST_DIR}/@this_target@.cmake" )
+endif()
