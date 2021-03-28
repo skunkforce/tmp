@@ -3,10 +3,10 @@
 
 //  Copyright 2018 Odin Holmes.
 //
-//  Distributed under the Boost Software License, Version 1.0.
+//  Distributed under the MIT License, Version 1.0.
 //
-//  See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.osf.org/LICENSE_1_0.txt
+//  See accompanying file LICENSE or copy at
+//  http://skunkforce.github.io/LICENSE
 
 #include "../call.hpp"
 #include "../detail/dispatch.hpp"
