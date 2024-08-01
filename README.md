@@ -1,5 +1,5 @@
- # skunkforce.tmp (Tacit Meta Programming) 
- ### What is skunkforce.tmp?
+ # osf.tmp (Tacit Meta Programming) 
+ ### What is osf.tmp?
 A general purpose Template Meta Programming (TMP) library which covers the domains of boost.MPL, boost.Fusion, boost.mp11 and boost.hana. 
  ### Whats cool about this library?
 There are a few reasons:
